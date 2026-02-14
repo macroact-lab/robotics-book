@@ -33,11 +33,11 @@
 
 ### [6장] 강화학습 (Reinforcement Learning)
 * **6.2 Q-Learning 기초**
+  * Grid World 기본 경로 학습 
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/macroact-lab/robotics-book/blob/main/6_2_grid_world.ipynb)
+* **6.3 Q-Learning 기초**
   * Gym Taxi-v3 환경 최적 경로 학습 
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/macroact-lab/robotics-book/blob/main/06_RL/Taxi_QLearning.ipynb)
-* **6.3 Frozen Lake 실습**
-  * 확률적 환경에서의 강화학습 구현 
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/macroact-lab/robotics-book/blob/main/06_RL/Frozen_Lake.ipynb)
 * **6.6 로봇 강화학습 예제 실행**
   * Stable-Baselines3 기반 Panda 로봇 팔 제어 
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/macroact-lab/robotics-book/blob/main/06_RL/Panda_Reach.ipynb)
