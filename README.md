@@ -25,6 +25,7 @@
 * **3.2 관절 제어와 보행 패턴**
   * 마이캣 역운동학 및 보행 알고리즘 시뮬레이션 
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/macroact-lab/robotics-book/blob/main/3_2_maicat_rpy.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/macroact-lab/robotics-book/blob/main/3_2_maicat_trot_gate.ipynb)
 
 ### [4장] 산업용 로봇 팔 시뮬레이션
 * **4.1 조인트 제어**
