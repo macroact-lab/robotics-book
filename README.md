@@ -12,9 +12,6 @@
   * 로봇 시뮬레이터
   [🔗 접속하기](https://macroact.com/sim1)
 
-| **⚙️ 모터 제어** | 서보 모터의 동작 원리, PID 제어 및 Torque-Speed 곡선 실습 (16p) | [🔗 접속하기](https://motor-sim-56323.web.app) |
-| **🏭 산업용 로봇 팔** | 공장 환경에서의 궤적 계획(PTP, LIN) 및 Pick & Place 실습 (72p) | [🔗 접속하기](https://factory-sim-66882.web.app) |
-
 ### [2장] 로봇 하드웨어의 이해
 * **2.2 구동계**
   * 모터 시뮬레이터
@@ -48,13 +45,11 @@
 ---
 
 ## 🛠️ 실습 안내
-1. 모든 실습은 **Google Colab** 환경에 최적화되어 있습니다.
+1. 코드 실습은 **Google Colab** 환경에 최적화되어 있습니다.
 2. 각 노트북의 첫 번째 셀(`!pip install...`)을 실행하여 필요한 라이브러리를 먼저 설치해 주세요.
-3. 실습용 로봇 **마이캣(Maicat)** 및 웹 시뮬레이터에 대한 정보는 아래 링크를 참조하세요.
 
 ## 🔗 관련 링크
 * **매크로액트 공식 홈페이지:** [macroact.com](https://macroact.com)
-* **로봇 시뮬레이터:** [robot-sim-f097e.web.app](https://robot-sim-f097e.web.app)
 * **기술 지원 및 문의:** contact@macroact.com
 
 ---
