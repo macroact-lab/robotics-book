@@ -71,8 +71,8 @@
 
 
 ## 🔗 관련 링크
-* **매크로액트 공식 홈페이지:** [macroact.com](https://macroact.com)
-* **기술 지원 및 문의:** contact@macroact.com
+* **마이캣 공식 홈페이지:** [maicat.io](https://maicat.io/index_ko.html)
+* **기술 지원 및 문의:** info@macroact.com
 
 ---
 ⓒ 2026. Macroact Inc. All rights reserved.
