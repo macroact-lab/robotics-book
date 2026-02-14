@@ -67,7 +67,7 @@
 | :--- | :--- | :--- |
 | **📘 교재 구매** | 《실용 로봇공학》 구매 | [![Buy Book](https://img.shields.io/badge/교보문고-구매하기-blue?style=for-the-badge)](https://macroact.com/buy-book) |
 | **🤖 마이캣 구매** | Maicat 하드웨어 구매 | [![Buy Maicat](https://img.shields.io/badge/나라장터-구입하기-orange?style=for-the-badge)](https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024E0139_1000000001) |
-| **📱 전용 앱 설치** | 로봇 설정 및 무선랜 연동 | [ ![iOS](https://img.shields.io/badge/App_Store-iOS-black?style=flat-square&logo=apple) ](https://macroact.com/app-ios) [ ![Android](https://img.shields.io/badge/Google_Play-Android-green?style=flat-square&logo=googleplay) ](https://play.google.com/store/apps/details?id=com.macroact.app.avyra) |
+| **📱 전용 앱 설치** | 로봇 설정 및 무선랜 연동 | [ ![iOS](https://img.shields.io/badge/App_Store-iOS-black?style=flat-square&logo=apple) ](https://macroact.com/app-ios) [ ![Android](https://img.shields.io/badge/Google_Play-Android-green?style=flat-square&logo=googleplay) ](https://play.google.com/store/apps/details?id=com.macroact.app.maicat_connect) |
 
 
 ## 🔗 관련 링크
