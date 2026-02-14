@@ -32,10 +32,10 @@
   [🔗 접속하기](https://macroact.com/sim3)
 
 ### [6장] 강화학습 (Reinforcement Learning)
-* **6.2 Q-Learning 기초**
+* **6.2 Q-Learning**
   * Grid World 기본 경로 학습 
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/macroact-lab/robotics-book/blob/main/6_2_grid_world.ipynb)
-* **6.3 Q-Learning 기초**
+* **6.3 Gymnasium 소개 및 예제 코드 실행**
   * Gym Taxi-v3 환경 최적 경로 학습 
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/macroact-lab/robotics-book/blob/main/6_3_q_learning.ipynb)
 * **6.6 로봇 강화학습 예제 실행**
