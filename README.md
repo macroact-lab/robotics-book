@@ -60,6 +60,14 @@
 1. 코드 실습은 **Google Colab** 환경에 최적화되어 있습니다.
 2. 각 노트북의 첫 번째 셀(`!pip install...`)을 실행하여 필요한 라이브러리를 먼저 설치해 주세요.
 
+## 🛒 제품 및 서비스 안내 (Get Started with Maicat)
+
+| 항목 | 상세 설명 | 바로가기 |
+| :--- | :--- | :--- |
+| **📘 교재 구매** | 《실용 로봇공학》 구매 | [![Buy Book](https://img.shields.io/badge/교보문고-구매하기-blue?style=for-the-badge)](https://macroact.com/buy-book) |
+| **🤖 마이캣 구매** | Maicat 하드웨어 구매 | [![Buy Maicat](https://img.shields.io/badge/Maicat_Store-구입하기-orange?style=for-the-badge)](https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024E0139_1000000001) |
+| **📱 전용 앱 설치** | 로봇 설정 및 무선랜 연동 | [ ![iOS](https://img.shields.io/badge/App_Store-iOS-black?style=flat-square&logo=apple) ](https://macroact.com/app-ios) [ ![Android](https://img.shields.io/badge/Google_Play-Android-green?style=flat-square&logo=googleplay) ](https://macroact.com/app-android) |
+
 ## 🔗 관련 링크
 * **매크로액트 공식 홈페이지:** [macroact.com](https://macroact.com)
 * **기술 지원 및 문의:** contact@macroact.com
